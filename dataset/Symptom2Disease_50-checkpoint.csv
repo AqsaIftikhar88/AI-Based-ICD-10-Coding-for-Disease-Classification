@@ -1,0 +1,121 @@
+Disease,Symptoms
+A01.0(TYPHOID),"I am having some diarrhea and constipation, which has been quite concerning. In my stomach, there is a severe, painful ache. I'm constantly exhausted and don't feel like eating anything."
+A01.0(TYPHOID),"I've been having diarrhoea and loose, watery stools many times a day. I've lost my appetite and am always sick. I'm also developing a mild fever. Also, my abdominal part pains a lot. I don't know what the reason behind all of these is."
+A01.0(TYPHOID),"I've been having a lot of trouble staying hydrated because of the vomiting and diarrhea. I have a high fever, constipation, and a headache. I am also starting to get a strange pain in my stomach area and I can't do anything physical."
+A01.0(TYPHOID),"I've lost a lot of weight in the last week because I couldn't eat much due to nausea and vomiting. This is followed by a high fever, headache, and stomach pain."
+A01.0(TYPHOID),"I have been getting a headache for the past week that has been growing worse. It has been accompanied by stomach pains, constipation, and diarrhea. I don't know what is happening and I am really worried about it."
+A90(DENGUE),I have been vomiting frequently and have lost my appetite as a result. My joints and back pain all the time.
+A90(DENGUE),I am facing severe joint pain and vomitting. I have developed a skin rash that covers my entire body and is accompanied by intense itching. 
+A90(DENGUE),"I have been experiencing chills and shivering, despite being in a warm environment. My back pains all the time and there are red spots on my arms."
+A90(DENGUE),I have a high fever accompanied with severe headache and body pain. I experince chills every night. There is a distinct pain behind my eyes too.
+A90(DENGUE),"I have been experiencing severe joint pain that makes it difficult for me to move and perform my daily activities. Also, I have lost my apetite because of which I feel weak."
+B01.9(CHICKEN_POX),I've lost my appetite and can't seem to eat anything. I'm worried about my health.
+B01.9(CHICKEN_POX),"I'm feeling fatigued and have no energy. I can barely keep my eyes open during the day, and I've been feeling lethargic and unable to motivate myself."
+B01.9(CHICKEN_POX),There are small red spots all over my body that I can't explain. It's worrying me. I feel extremely tired and experience a mild fever every night.
+B01.9(CHICKEN_POX),"I've been experiencing intense itching all over my skin, and it's driving me crazy. I also have a rash that's red and inflamed."
+B01.9(CHICKEN_POX),"I've had a high fever for the past few days. I don't know what's causing it. Also, I noticed rashes on my skin and it's hard for me to resist scratching."
+B49(FUNGAL_INFECTION),"I've had a tendency of itching on my skin, that frequently turns into a rash. There are also some strange patches of skin that are a different tone than the rest of my skin, and I regularly get little lumps that mimic nodules."
+B49(FUNGAL_INFECTION),There are now red blotches all over my body where I have been itching horribly all over. A few of the patches also differ in complexion from my natural skin. And these lumps or bumps have developed on my skin.
+B49(FUNGAL_INFECTION),"My body has been itching terribly all over, and there are now red spots everywhere. Some of the patches also differ in tone from my natural complexion. And there are these lumps or pimples that have appeared on my skin."
+B49(FUNGAL_INFECTION),"I've been experiencing a lot of itching on my skin, and sometimes it turns into a rash. There are also some strange patches of skin that are a different color than the rest of me, and sometimes I get little bumps that look like nodules."
+B49(FUNGAL_INFECTION),"My skin has been really itchy lately, and it occasionally erupts into a rash. In addition, I have a few odd areas of skin that are a different coloration from the rest of me, and occasionally I develop little bumps that look  like nodules."
+B50.9(MALARIA),"I've been experiencing severe itching, chills, vomiting, and a high fever. I'm also sweating a lot and have a headache. I feel nauseous and my muscles are really sore"
+B50.9(MALARIA),"Along with my intense scratching, chills, nausea, and high fever, I've also been feeling really unwell. Along with my headache and excessive sweating, My muscles hurt a lot, and I feel queasy."
+B50.9(MALARIA),"I've had a high temperature, vomiting, chills, and intense itching. I also have a headache and am perspiring a lot. I'm queasy, and my muscles hurt a lot."
+B50.9(MALARIA),"Strong itchiness, chills, nausea, and a high temperature have been plaguing me. Besides having a headache, I'm also perspiring a lot. My muscles are quite sore, and I feel sick."
+B50.9(MALARIA),"I've had a high temperature, vomiting, chills, and intense itching. I also have a headache and am perspiring a lot. I'm queasy, and my muscles hurt a lot."
+E089(DIABETES),I have mood changes and have difficulty concentrating. My mind feels hazy and foggy at times and it gets difficult to do even regular chores
+E089(DIABETES),I have slow healing of wounds and cuts. I have this tingling sensation in my hand and numbness in both my hands and feet
+E089(DIABETES),I have blurred vision and it only seems to be getting worse. I feel fatigued and tired all the time. I also feel very dizzy and light headed at times
+E089(DIABETES),I have increased thirst and frequent urination. I often have a dry mouth and throat. Recently I have been having increased hunger and appetite
+E089(DIABETES),I have a dry mouth and throat. I also have been experiencing an increased appetite and hunger. However I do feel very tired at times
+G43.909(MIGRAINE),"Along with eyesight problems, increased appetite, a sore neck, melancholy, irritability, and regular headaches, I have also been experiencing acid reflux, indigestion, and frequent migraines. My regular activities have been made more challenging by these symptoms, which have been causing me a great deal of distress."
+G43.909(MIGRAINE),"I have been struggling with acid reflux, indigestion, and headaches, as well as blurred and distorted vision, excessive hunger, a sore neck, depression, irritability, and visual disturbance. These symptoms have been causing me a lot of problems and making it difficult to concentrate and function normally."
+G43.909(MIGRAINE),"I have been experiencing acidity, indigestion, headaches, and blurred and distorted vision, as well as excessive hunger, a stiff neck, depression, irritability, and visual disturbance. These symptoms have been affecting my daily life and causing me discomfort."
+G43.909(MIGRAINE),"I have been suffering from acid reflux, indigestion, and regular headaches, as well as impaired vision, excessive hunger, a sore neck, depression, irritability, and visual disturbance. These symptoms have been causing me a lot of distress and making it difficult to go about my daily activities."
+G43.909(MIGRAINE),"Along with eyesight problems, increased appetite, a sore neck, melancholy, irritability, and regular headaches, I have also been experiencing acid reflux, indigestion, and frequent dizziness. My regular activities have been made more tough by these symptoms, which have been causing me a great deal of distress."
+I10(HYPERTENSION),"Along with a head pain, chest pain, instability, and balance issues, I've also been feeling unwell. I also think I'm having problems focusing."
+I10(HYPERTENSION),"In addition to a head pain, chest pain, instability, and balance issues, I've already been feeling unwell. I also suppose I'm having issues focusing."
+I10(HYPERTENSION),"I have been experiencing a headache, chest pain, dizziness, and difficulty maintaining my balance. I also feel like I am having trouble concentrating"
+I10(HYPERTENSION),"Along with a headache, chest pain, instability, and balance issues, I've also been feeling dizzy. I also think I'm having problems focusing."
+I10(HYPERTENSION),"I've been experiencing balance issues, a headache, chest pain, and dizziness. My ability to concentrate and focus has also been challenging."
+I83.899(VARICOSE_VEINS),"I have a rash on my legs that is causing a lot of discomforts. It seems there is a cramp and I can see prominent veins on the calf. Also, I have been feeling very tired and fatigued in the past couple of days."
+I83.899(VARICOSE_VEINS),I am overweight and have noticed that my legs are swollen and the blood vessels are visible. My legs have swollen and I can see a stream of swollen veins on my calves.
+I83.899(VARICOSE_VEINS),"There is bruising on my legs that I cannot explain. I can see strange blood vessels below the skin. Also, I am slightly obese and I am really worried."
+I83.899(VARICOSE_VEINS),"The veins on my calves have become very prominent and causing discomfort. I can't stand for long periods of time, as it causes pain in my legs, similar to cramps."
+I83.899(VARICOSE_VEINS),"My calves have been cramping up when I walk or stand for long periods of time. There are bruise marks on my calves, which is making me worried. I feel tired very soon."
+J00(COMMON_COLD),"My nose is extremely runny, and I can't seem to stop sneezing. In addition, I constantly feel cold, exhausted, and I've been coughing a lot. My fever is also really high far above normal."
+J00(COMMON_COLD),"I've been sneezing incessantly and I just can't get this chill to go away. I feel so weak and exhausted, and my cough won't stop. My temperature is really high."
+J00(COMMON_COLD),I'm constantly sneezing and my body is shaking from being cold. I'm so tired I can barely move and my head is killing me. My fever is through the roof
+J00(COMMON_COLD),"I've been sneezing nonstop and I can't seem to shake this chill. I'm feeling really weak and tired, and my cough won't go away. My fever is really high"
+J00(COMMON_COLD),"I can't stop sneezing and my nose is really runny. I'm also really cold and tired all the time, and I've been coughing a lot. My fever is really high too, like way above normal."
+J15.9(PNEUMONIA),"I'm saturated with sweat and struggling to breathe. My throat is blocked with mucous, and I'm uncomfortable. My heart is racing, and my chest aches. I'm coughing up a darkish stringy mucous."
+J15.9(PNEUMONIA),"I have a lot of difficulty breathing. I don't feel well, and I'm perspiring a lot. My chest hurts, and I have a lot of mucus in my throat. I'm having trouble breathing, and the phlegm I'm coughing up has a strange hue."
+J15.9(PNEUMONIA),"I'm having a lot of problems breathing. I'm not feeling good, and I'm sweating a lot. I have a lot of mucous in my throat and my chest hurts. My breathing is laboured, and the phlegm I'm coughing up has an odd tint."
+J15.9(PNEUMONIA),"I've recently had chills, exhaustion, a cough, a high temperature, and breathing issues. I've been perspiring a lot and generally feeling weak and ill. I've had some quite thick and black phlegm. My heart has been racing quite quickly."
+J15.9(PNEUMONIA),"I've been coughing a lot and feeling incredibly chilly and exhausted. I have a pretty high fever, and it's difficult for me to breathe. I've been perspiring a lot and generally feeling weak and ill. I've had some quite thick and black phlegm."
+J45.909(BRONCHI_ALASTHMA),"I've had ongoing health problems for a week, including a dry cough, breathing difficulties, and general weakness."
+J45.909(BRONCHI_ALASTHMA),"Doctor Due to a high fever, I haven't been able to breathe via my nose or mouth for a few days and feeling too tired.sometimes mucus has been seen too.Please recommend some medications for me."
+J45.909(BRONCHI_ALASTHMA),"I've been experiencing difficulty breathing, a chronic cough, and weariness. I've been producing a lot of thick, mucoid sputum while also running a very high temperature. Due to having to cope with all of this, I'm simply feeling extremely worn out and exhausted."
+J45.909(BRONCHI_ALASTHMA),"I've been struggling with fatigue and a constant cough that's been making it difficult to breathe. My fever is high, and I've been coughing up a lot of thick, mucoid sputum."
+J45.909(BRONCHI_ALASTHMA),"Hello, Mom and Father Recently, I've felt incredibly worn out and have had a cough that won't go away. My fever is really high, and my breathing has become shallow. Additionally, I've been coughing up a lot of mucous, thick sputum."
+K21.9(GASTROESOPHAGEAL_REFLUX_DISEASE),"I frequently have indigestion and heartburn, especially after eating spicy or fatty foods. My chest hurts when I lean forward or while I'm lying down. Additionally, my chest hurts a lot."
+K21.9(GASTROESOPHAGEAL_REFLUX_DISEASE),I regularly feel sick after eating and puke up the entire meal. I constantly get horrible acid reflux agony and stomach discomfort.
+K21.9(GASTROESOPHAGEAL_REFLUX_DISEASE),"I'm not in the mood to eat, and swallowing is difficult. I often have this lingering feeling of fullness even after little meals. My typical symptoms include heartburn, nausea, and throat tingling."
+K21.9(GASTROESOPHAGEAL_REFLUX_DISEASE),"My throat often feels like it's on fire, especially after eating. I occasionally get an aftertaste that is sour or bitter and makes me feel nauseous."
+K21.9(GASTROESOPHAGEAL_REFLUX_DISEASE),"Even when I don't have anything acidic in my stomach, I constantly have a sour taste in my mouth. I frequently have a lump in my throat and the hiccups."
+K27.9(PEPTIC_ULCER_DISEASE),"Only when I hunch down or lie down does my stomach hurt more. I have pain after eating certain foods, such as hot or acidic food. I occasionally get loose stools as a result of this."
+K27.9(PEPTIC_ULCER_DISEASE),I can't get to sleep or remain asleep because I have a stomach pain. I get exhausted after using the bathroom and stop being hungry. I worry a lot of the time.
+K27.9(PEPTIC_ULCER_DISEASE),"I unintentionally lose weight and find it challenging to gain it back. To relieve the pain and discomfort I feel, I take antacids. My mouth hurts so severely right now."
+K27.9(PEPTIC_ULCER_DISEASE),"My mouth is filled with a sour, acidic flavour. I have frequent belching and burping. My upper abdomen has felt pressed in or full for the past few hours."
+K27.9(PEPTIC_ULCER_DISEASE),I've been experiencing bowel movements that are both constipated and diarrhoeic. I often lack the will to eat and energy.
+K64.8(DIMORPHIC_HEMORRHOIDS),"I've been having a lot of trouble going to the bathroom lately. It's really painful when I do, and there's been some blood in my stool. I've also been having some pain and irritation around my anus."
+K64.8(DIMORPHIC_HEMORRHOIDS),"Lately I've been experiencing constipation, pain during bowel movements, and pain in my anus. My stool has also been really bloody and my anus has been really irritated."
+K64.8(DIMORPHIC_HEMORRHOIDS),"Recently, I've been having a lot of difficulty using the restroom. When I do, it hurts a lot, and I've noticed some blood in my stool. Around my anus, I've also been experiencing some discomfort and itching."
+K64.8(DIMORPHIC_HEMORRHOIDS),"Recently, I've been having a lot of difficulty using the restroom. My bowel movements have been extremely uncomfortable and difficult for me to have.  My anus has been quite inflamed, and my stool has been extremely bloody."
+K64.8(DIMORPHIC_HEMORRHOIDS),"Constipation, discomfort with bowel motions, and anus pain have all recently been bothering me. My anus has been quite inflamed, and my stool has been extremely bloody."
+L01.00(IMPETIGO),I'm feeling quite ill. I have a high fever and a headache. Rashes appeared on my arms and face. I'm quite concerned about this. I saw red sores around my nose and lips today.
+L01.00(IMPETIGO),"The rashes on my face are not healing. I tried some medications but it is not helping much. Recently, I noticed small sores near my nose. They are painful and very difficult to handle."
+L01.00(IMPETIGO),"I'm running a high temperature. I've developed a rash on my face, neck, and arms. The rash consists of painful red lesions. My health is a concern for me."
+L01.00(IMPETIGO),"I've had rashes on my face. I'm developing little sores around my nose, and a yellow ooze is frequently oozing from them. The lesions have become even more painful."
+L01.00(IMPETIGO),"Over the last week, the rash on my face has gotten more severe and painful, and the sores have begun to discharge a yellow colored fluid. It's becoming increasingly painful by the day."
+L40.0(PSORIASIS),"I am starting to have rashes on my arms and neck. The rash often bleeds and hurts when I scratch it. I have also developed small dents in my nails, which is very strange."
+L40.0(PSORIASIS),"My nails are slightly dented. Even my joints are now experiencing excruciating discomfort. My skin has a silver-like powder, especially on my back and elbows. "
+L40.0(PSORIASIS),"My joints are experiencing an unusual discomfort. Additionally, I've experienced weird skin peeling in various places on my body. I'm concerned that something is wrong with my body. "
+L40.0(PSORIASIS),"Because of dry, flaky areas on my skin, I am prone to infections. My joints are in extreme pain . My knees and elbows' skin are starting to peel off."
+L40.0(PSORIASIS),"I've had trouble falling asleep because of the rash's pain and itching. The skin on my fingers are starting to peel off. My nails have a few tiny cracks, which is really worrying. "
+L70.9(ACNE),"I've recently been experiencing a severe skin rash. Blackheads and pimples packed with pus are everywhere. Additionally, my skin has been scurring a lot."
+L70.9(ACNE),I've just developed a severe rash on my skin. It's clogged with pus-filled pimples and blackheads. My skin has also been quite sensitive.
+L70.9(ACNE),"My skin has been breaking out in a terrible rash lately. Blackheads and pus-filled pimples abound on it. Additionally, my skin has been scurring a lot."
+L70.9(ACNE),I've been having a very unhealthy rash on my skin latterly. It's filled with pus-filled pimples and blackheads. My skin has additionally been scurring heaps.
+L70.9(ACNE),I've been having a really bad rash on my skin lately. It's full of pus-filled pimples and blackheads. My skin has also been scurring a lot.
+M13.80(ARTHRITIS),"I've been experiencing stiffness and weakness in my neck muscles recently. Since my joints have grownup, it's heavy on behalf of American state to run whereas not getting stiff. additionally, walking has been very uncomfortable."
+M13.80(ARTHRITIS),"Lately i have been experiencing muscle weakness, a stiff neck, swelling joints, and stiffness after I attempt to move around. it is also been very painful to steer."
+M13.80(ARTHRITIS),"Recently, the muscles in my neck have become tight and weak. Since my joints have matured, it is difficult for the American government for me to run without becoming stiff. Walking has also been quite unpleasant."
+M13.80(ARTHRITIS),"Recently, the muscles in my neck have become tight and weak. It's difficult for me to run now since my joints are older without getting tight. The act of walking has also been quite unpleasant."
+M13.80(ARTHRITIS),"Lately, I've been having stiffness and weakness in my neck muscles. Since my joints have matured, it is difficult for the American state to operate without becoming stiff. Furthermore, walking has been quite painful."
+M47.892(CERVICAL_SPONDYLOSIS),"I have been suffering from back pain, a hacking cough, and weakness in my arms and legs. Additionally, my neck hurts and I have had issues with dizziness and maintaining my balance."
+M47.892(CERVICAL_SPONDYLOSIS),"Back pain, a coughing cough, and numbness in my arms and legs have been plaguing me. In addition, my neck hurts, and I've having trouble staying balanced and without getting woozy."
+M47.892(CERVICAL_SPONDYLOSIS),"I have been experiencing severe back pain, a persistent cough, and weakness in my limbs. My neck also hurts and I have been feeling dizzy and off balance."
+M47.892(CERVICAL_SPONDYLOSIS),"Along with a chronic cough and limb weakness, I've been dealing with excruciating back discomfort. I've been experiencing neck pain as well as vertigo and instability."
+M47.892(CERVICAL_SPONDYLOSIS),"Back pain, a hacking cough, and numbness in my arms and legs have been bothering me. In addition, my neck hurts, and I've having trouble staying balanced and without getting lightheaded."
+N39.0(URINARY_TRACT_INFECTION),"My lower abdomen aches, and it feels like it may explode when I urinate. Since I began experiencing these new symptoms, my body temperature has been consistently low. That's why I've been weak."
+N39.0(URINARY_TRACT_INFECTION),"In the last four days, I've experienced low temperatures and blood in my pee. My head hurts so much and my urine smells awful. The desires to urinate seldom come on cue, and I hardly ever have any control over when they do."
+N39.0(URINARY_TRACT_INFECTION),"I've had low temps and blood in my urine for the past three days. My pee smells terrible, and my head hurts so much. Urinary urges seldom occur on cue, and I almost never have any control over when they do."
+N39.0(URINARY_TRACT_INFECTION),"My pee frequently has an odd smell and is either red or black, or both. The frequent changes in my body temperature usually keep me awake at night."
+N39.0(URINARY_TRACT_INFECTION),My pee smells strongly and seems cloudy. I've had fevers and frequent overnight urination needs ever since these symptoms began.
+R17(JAUNDICE),"I've been losing weight and experiencing nausea, itching, and exhaustion. My skin has become yellow, and I have a severe fever. I have dark urine, and I've been having stomach pain."
+R17(JAUNDICE),"I've been losing weight and experiencing severe itching, nausea, and exhaustion. My skin has become yellow, and I have a severe fever. I have dark urine, and I've been having stomach pain."
+R17(JAUNDICE),"I have been suffering from intense itching, vomiting, fatigue, and weight loss. My fever is high and my skin has turned yellow. My urine is dark and I have been experiencing abdominal pain"
+R17(JAUNDICE),"I have been experiencing severe itching, vomiting, fatigue, and weight loss. My fever is high and my skin has turned yellow. My urine is dark and I have been experiencing abdominal pain"
+R17(JAUNDICE),"I've been losing weight, feeling really fatigued, and throwing up a lot. My skin has become yellow, and I have a severe fever. I have dark urine, and I've been having stomach pain."
+T78.40XA(ALLERGY),I have asthma like symptoms like wheezing and difficulty breathing. I often get fever and have headaches. I feel tired all the time
+T78.40XA(ALLERGY),"I have a runny nose and I am sneezing all the time. My eyes are itchy and often watery, and I am coughing all the time. My head hurts and all the time"
+T78.40XA(ALLERGY),I have sore throat and I am sneezing all the time. Sometimes I have swelling on my face like my lips and near my eyes. I just cant stop sneezing once I start sneezing
+T78.40XA(ALLERGY),I hace difficulty in breething and shortness of breath. I cough uncontrollably and get itchy eyes and swelling on my face and other body parts
+T78.40XA(ALLERGY),I have a nasal congestion and blocked nose. Sometimes at night I have chest pain and tightness. I have also lost my sense of smell and taste
+T88.7XXA(DRUG_REACTION),I have fever and feel very dizzy and lightheaded. My heart is beating very fast and I feel very confused. I am not able to think very clearing and everything feels very foggy
+T88.7XXA(DRUG_REACTION),I feel very nauseous and have chest pain. Recently I have been experiencing chest pain. I feel very uneasy and often sweat profusely
+T88.7XXA(DRUG_REACTION),I have rashes on my skin and these flake off from time to time. This leaves me prone to infection. My fingers start twitching and sometimes I experience tremors.
+T88.7XXA(DRUG_REACTION),"I have headaches and migraines, have been having difficulty sleeping. I have been having muscle twitching and tremors. Sometimes I get lightheaded"
+T88.7XXA(DRUG_REACTION),"I have a metallic taste in my mouth, and also have a sense of change of taste and smell. Sometimes get very unbearable joint pain and muscle pain"
