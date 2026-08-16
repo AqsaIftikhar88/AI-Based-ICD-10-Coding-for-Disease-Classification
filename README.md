@@ -1,4 +1,4 @@
-# Enhancing Healthcare Efficiency: AI-Based ICD-10 Coding for Disease Classification
+# AI-Based ICD-10 Coding for Disease Classification
 
 ## 📌 Project Overview
 
