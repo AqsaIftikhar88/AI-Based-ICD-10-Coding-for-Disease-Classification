@@ -125,8 +125,5 @@ Future improvements include:
 - Expanding the dataset with more medical records and ICD-10 codes.
 - Increasing the number of supported disease categories.
 - Improving model accuracy with larger and better-quality datasets.
-- Exploring advanced NLP architectures such as **BERT (Bidirectional Encoder Representations from Transformers)**.
-- Integrating the system more deeply into healthcare applications.
-- Improving multilingual medical-text understanding.
 
 ---
